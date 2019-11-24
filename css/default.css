@@ -1,0 +1,53 @@
+.centered {
+    text-align: center;
+}
+
+.fitImage {
+    height: 50%; 
+    width: 50%; 
+    object-fit: contain;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar {
+    font-weight: bold;
+    font-size: 20pt;
+    word-spacing: 1cm;
+    color: white;
+    text-shadow: #000 0px 0px 9px;
+    -webkit-font-smoothing: antialiased;
+    letter-spacing: 0.5em;
+}
+
+.multiplewords {
+    word-spacing: 0;
+    text-decoration: underline;
+}
+
+.footer {
+    background-color: #E8E8E8;
+}
+
+.letterSpace {
+    letter-spacing: 0.3em;
+}
+
+.descriptionFontSize {
+    font-size: 50px;
+}
+
+.outline {
+    text-shadow: #000 0px 0px 7px;
+    -webkit-font-smoothing: antialiased;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.footerTitle {
+    font-style: italic;
+}
